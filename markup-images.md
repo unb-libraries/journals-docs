@@ -65,7 +65,9 @@ Run **Adobe Photoshop** and, once it's running, do the following.
 
 # Putting the Images Online
 
-All of our images go in a directory structure that is separate but very similar to the structure we have for our XML files. They're nested in their own directory called ``/journalimages`` which can be found from your own **home directory**. Within ``/journalsimages``, you'll find a list of journal titles as they would appear in ``/etc_journals``. After that, year/volume/issue/files. 
+All of our images go in a directory structure that is separate but very similar to the structure we have for our XML files. They're nested in their own directory called ``/journalimages`` which can be found from your own **home directory**. You'll need to look in a folder called ``/ojs_storage`` Within ``/journalsimages``, you'll find a list of journal titles as they would appear in ``/etc_journals``. After that, year/volume/issue/files. So:
+
+> /home/USERNAME/ojs_storage/journalimages/journal/year/volume/number/
 
 The files need to be in this directory to be readable online. In order to double check, it's not a bad idea to look at the XML file for the article you're working on. After running **cleanUp**, you should see the file path for all of your images at the top of the XML file under the ``<grlien>`` element. These are created by **cleanUp** and you'll have to put the images in a matching directory. This process more or less requires the use of an **SFTP** client (Fetch, Filezilla, CyberDuck). You can ask systems for help if you don't know how to do this. 
 
