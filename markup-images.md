@@ -65,7 +65,7 @@ Run **Adobe Photoshop** and, once it's running, do the following.
 
 # Putting the Images Online
 
-All of our images go in a directory structure that is separate but very similar to the structure we have for our XML files. They're nested in their own directory called ``/journalimages`` which can be found from your own **home directory**. You'll need to look in a folder called ``/ojs_storage`` Within ``/journalsimages``, you'll find a list of journal titles as they would appear in ``/etc_journals``. After that, year/volume/issue/files. So:
+All of our images go in a directory structure that is separate but very similar to the structure we have for our XML files. They're nested in their own directory called ``/journalimages`` which can be found from your own **home directory**, inside a folder called **/ojs_storage**. You'll need to look in a folder called ``/ojs_storage`` Within ``/journalsimages``, you'll find a list of journal titles as they would appear in ``/etc_journals``. After that, year/volume/issue/files. So:
 
 > /home/USERNAME/ojs_storage/journalimages/journal/year/volume/number/
 
