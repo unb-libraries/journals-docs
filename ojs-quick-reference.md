@@ -57,10 +57,15 @@ Click on **Step 1: “Details”** and fill out all information possible, keepin
 Click on “Save and Continue”. When you reach the next page, click Either **2. Policies** or **Next Page**. Fill out all information possible, keeping in mind the following notes:
 
 - Box forms on this page can accept limited HTML code. You can enclose words in HTML tags to change their appearance:
-`<i>Italic</i>`
-`<b>Bold</b>`
-`<u>Underline</u>`
+
+```
+<i>Italic</i>
+<b>Bold</b>
+<u>Underline</u>
+```
+
 And so on…
+
 - There is an unclear distinction between **Peer Review Policy** and **Review Guidelines**. Peer Review Policy appears in About the Journal, and as such should be a short outline detailing your review policy. Review Guidelines are your complete guidelines and/or a checklist, viewable by reviewers during the review process.
 - There is a default **privacy statement** that you may wish to change.
 - In Section 2.5, you can add extra items to appear in the **About the Journal** page. You can add as many extra sections as you require.
