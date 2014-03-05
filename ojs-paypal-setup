@@ -1,6 +1,6 @@
 # PayPal Plugin Configuration for OJS
 
- Copy... [PayPal](http://www.paypal.com)
+ Occasionally, a journal will require a payment module in OJS. Very occasionally. OJS only really supports [PayPal](http://www.paypal.com) as an official payment plugin. However, it's connectivity is a little dated. You might experience some frustration in connecting the two when the OJS pages are asking you for information from PayPal that you might think doesn't exist or is deeply buried in their settings. In February of 2014, I took a look at configuring the PayPal plugin. These are, roughly, the steps we took at that time. 
 
 ## Step 1: OJS
 
@@ -26,4 +26,7 @@
 1. Go back to **Options** in the sub-menu and populate prices for everything there you wish to have a price for. 
 2. Test at home, ideally, so you're not part of an institutional subscription. 
 
-That ought to get you most of the way there. There are a few small details I still have to sort out. 
+That ought to get you most of the way there. 
+
+It's worth noting that the IPN (Instant Payment Notification) is something that is filed under "Classic APIs" in [PayPal's developer documentation](https://developer.paypal.com/webapps/developer/docs/classic/products/instant-payment-notification/). This suggests that the plugin is outdated in some respect. There may be modifications to the plugin planned by PKP in the near future.  
+
