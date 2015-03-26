@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to the Text Centre! There'll be lots for you to do in the coming weeks and months with the ETC. However, we've all got to start somewhere! Here!
+Welcome to the Centre for Digital Scholarship! There'll be lots for you to do in the coming weeks and months with the ETC. However, we've all got to start somewhere! Here!
 
 # A Little Context
 
