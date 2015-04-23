@@ -219,8 +219,6 @@ The final, replaced version should look like this:
 <liensimple id="li3" xlink:href="http://dx.doi.org/10.12789/geocanj.2013.40.015">http://dx.doi.org/10.12789/geocanj.2013.40.015</liensimple>
 ```
 
-<hr><!--footnotes-->
-
 [Centre for Digital Scholarship]: https://digitalscholarship.lib.unb.ca/journal-publication-services
 [CrossRef]: http://crossref.org
 [Current Fee Schedule]: http://www.crossref.org/02publishers/20pub_fees.html
