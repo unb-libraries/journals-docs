@@ -2,7 +2,6 @@
 
 *Mike Nason // Scholarly Communications Librarian // April 2015*
 
-<!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
 - [Introduction](#introduction)
 - [1.0 DOIs](#10-dois)
 	- [1.1 What is a DOI?](#11-what-is-a-doi)
@@ -17,7 +16,6 @@
 		- [2.2.1 Configuring the CrossRef Plugin](#221-configuring-the-crossref-plugin)
 	- [2.3 Submitting DOIs using the CrossRef Plugin](#23-submitting-dois-using-the-crossref-plugin)
 - [3.0 DOI's in Markup](#30-dois-in-markup)
-<!-- /TOC -->
 
 ###Introduction
 
